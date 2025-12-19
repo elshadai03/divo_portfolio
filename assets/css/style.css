@@ -1535,3 +1535,16 @@ button {
     font-size: 14px;
   }
 }
+
+.certificate-link {
+  display: inline-block;
+  margin-top: 6px;
+  color: #4f46e5;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.certificate-link:hover {
+  text-decoration: underline;
+}
+
